@@ -2,9 +2,9 @@
 $ npm start -> Inicia o servidor do nodemon <br />
 $ npm run dev -> Inicia o serviço do webpack para atualizar os arquivos
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+### O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 
-# Instalações Ultilizadas:
+## Instalações Ultilizadas:
 $ npm init -y <br />
 $ npm i dotenv <br />
 $ npm install nodemon --save-dev <br />
@@ -18,7 +18,7 @@ $ npm i ejs <br />
 $ npm i style-loader <br />
 $ npm i validator <br />
 
-# Base de dados para conexão: 
+## Base de dados para conexão: 
 Inserir essa url em um arquivo .env <br />
 mongodb+srv://<username>:<password>@curso-js.6p4xb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
