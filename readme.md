@@ -22,11 +22,6 @@
  $ npm i ejs <br />
  $ npm i style-loader <br />
  $ npm i validator <br />
- 
-### 🚧 Banco de Dados 🚧
-
-- [MongoDB](https://www.mongodb.com/pt-br)
-
 
 ## Base de dados para conexão: 
 
@@ -41,3 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [EJS](https://ejs.co/)
 - [Webpack](https://webpack.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
+ 
+### 🚧 Banco de Dados 🚧
+
+- [MongoDB](https://www.mongodb.com/pt-br)
