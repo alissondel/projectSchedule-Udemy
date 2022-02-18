@@ -25,7 +25,7 @@
 
 ## Base de dados para conexão: 
 
-#### Inserir essa url em um arquivo .env
+#### Inserir sua url gerado no site do mongdb atlas em um arquivo .env
   mongodb+srv://<username>:<password>@curso-js.6p4xb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 ### 🛠 Tecnologias
