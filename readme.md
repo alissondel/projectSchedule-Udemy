@@ -22,6 +22,11 @@
  $ npm i ejs <br />
  $ npm i style-loader <br />
  $ npm i validator <br />
+ 
+### 🚧 Banco de Dados 🚧
+
+- [MongoDB](https://www.mongodb.com/pt-br)
+
 
 ## Base de dados para conexão: 
 
