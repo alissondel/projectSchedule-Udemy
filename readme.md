@@ -1,26 +1,32 @@
-# Execute a aplicação em modo de desenvolvimento
-$ npm start -> Inicia o servidor do nodemon
-$ npm run dev -> Inicia o serviço do webpack para atualizar os arquivos
+# 🎲 Rodando no Back End (servidor)
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+#### Instale as dependências
+ $ npm install
 
-# Instalações Ultilizadas:
-$ npm init -y
-$ npm i dotenv 
-$ npm install nodemon --save-dev
-$ npm i mongoose
-$ npm i express-session connect-mongo connect-flash
-$ npm i helmet csurf
-$ npm i validator
-$ npm i bcryptjs
-$ npm i --save-dev @babel/cli @babel/preset-env @babel/core babel-loader webpack webpack-cli regenerator-runtime core-js@2
-$ npm i ejs
-$ npm i style-loader
-$ npm i validator
+### Execute a aplicação em modo de desenvolvimento
+ $ npm start
+ $ npm run dev
 
-# Base de dados para conexão: 
-## Inserir essa url em um arquivo .env
-mongodb+srv://<username>:<password>@curso-js.6p4xb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+### O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+
+## Instalações ultilizada na aplicação
+ $ npm init -y <br />
+ $ npm i dotenv <br />
+ $ npm install nodemon --save-dev <br />
+ $ npm i mongoose <br />
+ $ npm i express-session connect-mongo connect-flash <br />
+ $ npm i helmet csurf <br />
+ $ npm i validator <br />
+ $ npm i bcryptjs <br />
+ $ npm i --save-dev @babel/cli @babel/preset-env @babel/core babel-loader webpack webpack-cli regenerator-runtime core-js@2 <br />
+ $ npm i ejs <br />
+ $ npm i style-loader <br />
+ $ npm i validator <br />
+
+## Base de dados para conexão: 
+
+#### Inserir essa url em um arquivo .env
+  mongodb+srv://<username>:<password>@curso-js.6p4xb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 ### 🛠 Tecnologias
 
